@@ -1,7 +1,7 @@
 # CVPR_2019
 
 ## 分享CVPR2019论文，持续更新。。。
-## 论文学习分享，以及论文下载，请关注公众号：CNNer
+## 精选论文学习分享，实时分享当前热点处理算法。以及论文学习、下载，请关注公众号：CNNer
 
 index	file_name  
 0	Amit_Raj_Learning_to_Generate_Textures_on_3D_Meshes_CVPRW_2019_paper     
