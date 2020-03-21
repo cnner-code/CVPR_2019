@@ -1,8 +1,8 @@
-# CVPR_2019
+# CVPR_2019 Paper
 
 ## 分享CVPR2019论文，持续更新。。。
-## 精选论文学习分享，实时分享当前热点处理算法。以及论文学习、下载，请关注公众号：CNNer
-
+## 精选论文学习分享，实时分享当前热点处理算法。以及论文学习、下载，请关注公众号：CNNer  
+![image](https://github.com/cnner-code/CVPR_2019/blob/master/image/%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
 index	file_name  
 0	Amit_Raj_Learning_to_Generate_Textures_on_3D_Meshes_CVPRW_2019_paper     
 1	Atienza_A_Conditional_Generative_Adversarial_Network_for_Rendering_Point_Clouds_CVPRW_2019_paper     
